@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="selenium-java-4.12">
+    <CLASSES>
+      <root url="file://D:/A-Documents/Semester7-Fall-2023/SQE_LAB/selenium-java-4.12.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/A-Documents/Semester7-Fall-2023/SQE_LAB/selenium-java-4.12.1" />
+    </SOURCES>
+    <jarDirectory url="file://D:/A-Documents/Semester7-Fall-2023/SQE_LAB/selenium-java-4.12.1" recursive="false" />
+    <jarDirectory url="file://D:/A-Documents/Semester7-Fall-2023/SQE_LAB/selenium-java-4.12.1" recursive="false" type="SOURCES" />
+  </library>
+</component>

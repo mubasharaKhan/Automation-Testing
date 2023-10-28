@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-api-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-chrome-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-chromium-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v85-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v116-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-ie-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-http-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v118-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v117-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-edge-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-firefox-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-remote-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-safari-driver-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-support-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-manager-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-json-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-java-4.14.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-os-4.14.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-api-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-chrome-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-chromium-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v85-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v116-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-http-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-firefox-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-edge-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v117-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-devtools-v118-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-ie-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-remote-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-safari-driver-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-support-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-os-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-json-4.14.1-sources.jar!/" />
+          <root url="jar://E:/Downloads/selenium-java-4.14.1/selenium-manager-4.14.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/failureaccess-1.0.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/auto-common-1.2.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/jsr305-3.0.2.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/byte-buddy-1.12.10.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/auto-service-1.0.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/commons-exec-1.3.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/guava-31.1-jre.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/auto-service-annotations-1.0.1.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/jcommander-1.82.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/checker-qual-3.12.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/error_prone_annotations-2.11.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/failsafe-3.2.4.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/jtoml-2.0.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-buffer-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/async-http-client-2.12.3.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-codec-socks-4.1.60.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-common-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-handler-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-resolver-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-transport-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-transport-classes-kqueue-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-transport-classes-epoll-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-codec-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-codec-http-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-handler-proxy-4.1.60.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-context-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-exporter-logging-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-common-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-trace-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/reactive-streams-1.0.3.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/selenium-chrome-driver-4.3.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/selenium-chromium-driver-4.3.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/selenium-api-4.3.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-semconv-1.15.0-alpha.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-metrics-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/netty-transport-native-unix-common-4.1.78.Final.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-api-1.15.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/opentelemetry-sdk-logs-1.15.0-alpha.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/slf4j-simple-1.7.36.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/slf4j-api-1.7.30.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/selenium-remote-driver-4.3.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/selenium-json-4.3.0.jar!/" />
+          <root url="jar://E:/Downloads/selenium-master/selenium-master/selenium-http-4.3.0.jar!/" />
+          <root url="file://C:/Users" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Users" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/antlr" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/base-annotations" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/base-services" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/base-services-groovy" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/bootstrap" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-cache" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-cache-base" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-cache-http" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-cache-packaging" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-events" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-init" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-operations" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-option" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/build-profile" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/cli" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/code-quality" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/composite-builds" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/core" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/core-api" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/dependency-management" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/diagnostics" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/ear" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/enterprise" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/enterprise-logging" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/enterprise-operations" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/enterprise-workers" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/execution" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/file-collections" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/file-temp" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/file-watching" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/files" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/functional" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/hashing" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/ide" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/ide-native" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/installation-beacon" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/ivy" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/jacoco" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/jvm-services" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/kotlin-dsl-tooling-models" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/language-groovy" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/language-java" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/language-jvm" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/language-native" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/launcher" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/logging" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/logging-api" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/maven" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/messaging" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/model-core" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/model-groovy" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/native" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/normalization-java" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/persistent-cache" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/platform-base" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/platform-jvm" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/platform-native" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/plugin-development" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/plugin-use" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/plugins" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/problems" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/process-services" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/publish" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/reporting" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/resources" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/resources-gcs" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/resources-http" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/resources-s3" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/resources-sftp" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/scala" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/security" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/signing" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/snapshots" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/test-kit" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/testing-base" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/testing-junit-platform" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/testing-jvm" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/testing-native" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/tooling-api" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/tooling-api-builders" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/tooling-native" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/version-control" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/worker-processes" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/worker-services" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/workers" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/wrapper" />
+          <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.5-all/6qsw290k5lz422uaf8jf6m7co/gradle-7.5/src/wrapper-shared" />
+          <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.23.1/templates/invisible-project/src" />
+          <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.42.0/resources/maven-wrapper/.mvn/wrapper" />
+          <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-30" />
+          <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/tools/proguard/examples/annotations/examples" />
+          <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/tools/proguard/examples/annotations/src" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/battery-2.0.3/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/battery-2.0.3/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/camera-0.10.3+2/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/camera_android-0.10.5/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/camera_android-0.10.5/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/camera_android-0.10.5/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity-3.0.6/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity-3.0.6/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity-3.0.6/example/android/app/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/device_info-2.0.3/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_colorpicker-0.4.0/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_colorpicker-0.5.0/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.8/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.8/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.8/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.8/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.0.14/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.0.15/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.21/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.21/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.21/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.27/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.27/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.27/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.1.2/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.1.4/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.1.4/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.1.4/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.2.8+4/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.2.8+4/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.2.8+4/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.2.8+4/example/android/app/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.1.10/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.17/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.17/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.17/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.2.11/android/src/main/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.2.11/android/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.2.11/example/android/app/src/androidTest/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.2.11/example/android/app/src/test/java" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-11.3.0/java/src" />
+          <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-11.3.0/java/test" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/53120896" />
+          <root url="file://$MODULE_DIR$/../LAB_1/LAB_1/src" />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../webapp_tc/src" />
+          <root url="file://$MODULE_DIR$/../title_login_tc/src" />
+          <root url="file://$MODULE_DIR$/../webapp_tc/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
